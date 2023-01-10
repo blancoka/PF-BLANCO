@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #242525;
+    color: white;
+
+}
+.header{
+    margin: 20px;
+    padding: 20px;
+    background-color: #2B2B2B;
+}
+
+.title{
+    background-color: #2B2B2B;
+    margin-left: 80px;
+    align-content: left;
+    font-size: 35px;
+    font-family:'Times New Roman'
+}
+
+.footer{
+    background-color: 	#242525;
+    margin-top: 80px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    
+}
+
+.socialmedia{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:center;
+    align-items: center;
+    align-content: center;
+}
