@@ -125,16 +125,7 @@
     height: 100%;
     grid-column: 4;
     grid-row: 1/4; }
-    .contactform {
-    grid-column: 2;
-    grid-row: 3;
-    font-size: 25px;
-    font-style: normal;
-    font-weight: normal;
-    font-family: 'Times New Roman';
-    color: white;
-    justify-self: center;
-    padding-top: 150px; }
+
 
 .footer{
     background-color: 	#242525;
